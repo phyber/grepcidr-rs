@@ -1,0 +1,8 @@
+[package]
+name = "grepcidr-rs"
+version = "0.1.0"
+authors = ["David O'Rourke <nobody@localhost>"]
+
+[dependencies]
+clap = "2.31"
+ipnet = "1.0"
